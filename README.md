@@ -1,11 +1,18 @@
-# Este é o README do Curso-Python-Gustavo-Guanabara
-Exercícios resolvidos do curso de fundamentos de Python 3, ministrado pelo prof. Gustavo Guanabara do Curso em Vídeo.
+<div style="display: inline_block"><br>
+  <h1>Este é o README do Curso-Python-Gustavo-Guanabara
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
----
+Exercícios resolvidos do curso de fundamentos de Python 3, ministrado pelo prof. Gustavo Guanabara do [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) .
+
+ <br> 
 
 ## Lista de exercícios resolvidos
-
-### Mundo 1 
+  
+  <div style="display: inline_block"><br>
+    <h3>Mundo 1
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://i.pinimg.com/originals/53/c9/22/53c922a3e7b50405cbfafde2ca6e867b.png">
+  </div>
 
 #### Conhecendo a linguagem
 - Exercício Python #01 - [Deixando tudo pronto](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex001.py)
