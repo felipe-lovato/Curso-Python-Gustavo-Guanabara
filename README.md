@@ -8,12 +8,9 @@ Exercícios resolvidos do curso de fundamentos de Python 3, ministrado pelo prof
  <br> 
 
 ## Lista de exercícios resolvidos
-  
-  <div style="display: inline_block"><br>
-    <h3>Mundo 1
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://i.pinimg.com/originals/53/c9/22/53c922a3e7b50405cbfafde2ca6e867b.png">
-  </div>
 
+### Mundo 1
+  
 #### Conhecendo a linguagem
 - Exercício Python #01 - [Deixando tudo pronto](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex001.py)
 - Exercício Python #02 - [Respondendo ao Usuário](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex002.py)
