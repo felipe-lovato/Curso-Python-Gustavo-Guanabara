@@ -49,4 +49,15 @@ Exercícios resolvidos do curso de fundamentos de Python 3, ministrado pelo prof
 - Exercício Python #025 - [Procurando uma string dentro de outra](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex025.py)
 - Exercício Python #026 - [Primeira e última ocorrência de uma string](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex026.py)
 - Exercício Python #027 - [Primeiro e último nome de uma pessoa](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex027.py)
+  
+#### Estruturas condicionais
+
+- Exercício Python #028 - [Jogo da Adivinhação v1.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex028.py)
+- Exercício Python #029 - [Radar eletrônico](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex029.py)
+- Exercício Python #030 - [Par ou ímpar?](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex030.py)
+- Exercício Python #031 - [Custo da viagem](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex031.py)
+- Exercício Python #032 - [Ano bissexto](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex032.py)
+- Exercício Python #033 - [Maior e menor valores](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex033.py)
+- Exercício Python #034 - [Aumentos múltiplos](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex034.py)
+- Exercício Python #035 - [Analisando triângulo v1.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex035.py)
 
