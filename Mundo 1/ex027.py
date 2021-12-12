@@ -1,4 +1,4 @@
-#Leio um nome e apresente o nome e su sobrenome
+#Leio um nome e apresente o nome e seu sobrenome
 
 n = str(input('Digite seu nome e sobrenome: ')).strip().upper()
 nome = n.split()
