@@ -24,3 +24,11 @@ Exercícios resolvidos do curso de fundamentos de Python 3, ministrado pelo prof
 - Exercício Python #06 - [Dobro, Triplo, Raiz Quadrada](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex006.py)
 - Exercício Python #07 - [Média Aritmética](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex007.py)
 - Exercício Python #08 - [Conversor de Medidas](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex008.py)
+- Exercício Python #09 - [Tabuada](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex009.py)
+- Exercício Python #010 - [Conversor de moedas](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex010.py)
+- Exercício Python #011 - [Pintando parede](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex011.py)
+- Exercício Python #012 - [Calculando descontos](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex012.py)
+- Exercício Python #013 - [Reajuste salarial](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex013.py)
+- Exercício Python #014 - [Conversor de temperaturas](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex014.py)
+- Exercício Python #015 - [Aluguel de carros](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex015.py)
+
