@@ -61,3 +61,52 @@ Exercícios resolvidos do curso de fundamentos de Python 3, ministrado pelo prof
 - Exercício Python #034 - [Aumentos múltiplos](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex034.py)
 - Exercício Python #035 - [Analisando triângulo v1.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%201/ex035.py)
 
+
+### Mundo 2
+
+#### Condições em Python (if, elif)
+
+- Exercício Python #036 - [Aprovando empréstimo](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex036.py)
+- Exercício Python #037 - [Conversor de bases numéricas](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex037.py)
+- Exercício Python #038 - [Comparando números](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex038.py)
+- Exercício Python #039 - [Alistamento militar](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex039.py)
+- Exercício Python #040 - [Aquele clássico da média](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex040.py)
+- Exercício Python #041 - [Classificando atletas](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex041.py)
+- Exercício Python #042 - [Analisando triângulos v2.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex042.py)
+- Exercício Python #043 - [Índice de Massa Corporal](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex043.py)
+- Exercício Python #044 - [Gerenciador de pagamentos](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex044.py)
+- Exercício Python #045 - [GAME: Pedra, Papel e Tesoura](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex045.py)
+
+#### Repetições em Python (for)
+
+- Exercício Python #046 - [Contagem regressiva](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex046.py)
+- Exercício Python #047 - [Contagem de pares](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex047.py)
+- Exercício Python #048 - [Soma ímpares múltiplos de três](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex048.py)
+- Exercício Python #049 - [Tabuada v2.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex049.py)
+- Exercício Python #050 - [Soma dos pares](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex050.py)
+- Exercício Python #051 - [Progressão Aritmética](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex051.py)
+- Exercício Python #052 - [Números primos](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex02.py)
+- Exercício Python #053 - [Detector de palíndromo](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex053.py)
+- Exercício Python #054 - [Grupo da maioridade](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex054.py)
+- Exercício Python #055 - [Maior e menor da sequência](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex055.py)
+- Exercício Python #056 - [Analisador completo](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex056.py)
+
+#### Repetições em Python (while)
+
+- Exercício Python #057 - [Validação de dados](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex057.py)
+- Exercício Python #058 - [Jogo da adivinhação v2.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex058.py)
+- Exercício Python #059 - [Criando um menu de opções](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex059.py)
+- Exercício Python #060 - [Cálculo do fatorial](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex060.py)
+- Exercício Python #061 - [Progressão aritmética v2.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex061.py)
+- Exercício Python #062 - [Super Progressão Aritmética v3.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex062.py)
+- Exercício Python #063 - [Sequência de Fibonacci v1.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex063.py)
+- Exercício Python #064 - [Tratando vários valores v1.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex064.py)
+- Exercício Python #065 - [Maior e menor valores](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex065.py)
+- Exercício Python #066 - [Vários números com flag](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex066.py)
+- Exercício Python #067 - [Tabuada v3.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex067.py)
+- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex068.1.py)
+- Exercício Python #069 - [Análise de dados do grupo](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex069.py)
+- Exercício Python #070 - [Estatística de produtos](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex070.py)
+- Exercício Python #071.2 - [Simulador de caixa eletrônico](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex071.2.py)
+- Exercício Python #071.2.1 - [Simulador de caixa eletrônico](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex071.2.1.py)
+  
