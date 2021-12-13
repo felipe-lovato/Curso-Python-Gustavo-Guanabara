@@ -12,7 +12,7 @@ while True:
         print(f'Você Venceu, Numero:{op+numero} - {"PAR" if (op+numero) % 2 == 0 else "IMPAR"}')
         ponto += 1
     else:
-        print(f'Você Perdeu, Numero:{op + numero} - {"PAR" if (op + numero) % 2 == 0 else "IMPAR"}')
+        print(f'Você Perdeu, Numero:{op+numero} - {"PAR" if (op+numero) % 2 == 0 else "IMPAR"}')
         break
 print(f'Total de vitoria = {ponto}')
 print('Finalizando..')
