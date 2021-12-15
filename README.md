@@ -104,7 +104,7 @@ Exercícios resolvidos do curso de fundamentos de Python 3, ministrado pelo prof
 - Exercício Python #065 - [Maior e menor valores](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex065.py)
 - Exercício Python #066 - [Vários números com flag](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex066.py)
 - Exercício Python #067 - [Tabuada v3.0](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex067.py)
-- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex068.1.py)
+- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex068.py)
 - Exercício Python #069 - [Análise de dados do grupo](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex069.py)
 - Exercício Python #070 - [Estatística de produtos](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex070.py)
 - Exercício Python #071.2 - [Simulador de caixa eletrônico](https://github.com/felipe-lovato/Curso-Python-Gustavo-Guanabara/blob/main/Mundo%202/ex071.2.py)
